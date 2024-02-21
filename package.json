@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^13.6.4",
+    "cypress-sql-server": "^1.0.0"
+  },
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "exceljs": "^4.4.0"
+  }
+}
